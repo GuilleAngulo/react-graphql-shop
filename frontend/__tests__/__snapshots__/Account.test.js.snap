@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Account/> renders and matches the snapshot 1`] = `
+<form
+  className="Form-sc-4ldhx0-0 cTjOt"
+  data-test="form"
+  onSubmit={[Function]}
+>
+  <DisplayError
+    error={Object {}}
+  />
+  <fieldset
+    aria-busy={false}
+    disabled={false}
+  >
+    <label
+      htmlFor="name"
+    >
+      Name
+      <input
+        defaultValue="Miss Coleman Berge"
+        id="name"
+        name="name"
+        onChange={[Function]}
+        placeholder="Name"
+        required={true}
+        type="text"
+      />
+    </label>
+    <label
+      htmlFor="email"
+    >
+      Email
+      <input
+        defaultValue="Delmer.Smith@yahoo.com"
+        id="email"
+        name="email"
+        onChange={[Function]}
+        placeholder="Email"
+        required={true}
+        type="text"
+      />
+    </label>
+    <label
+      htmlFor="password"
+    >
+      Your Actual Password
+      <input
+        id="password"
+        name="password"
+        onChange={[Function]}
+        placeholder="Type your current password"
+        required={true}
+        type="password"
+      />
+    </label>
+    <button
+      type="submit"
+    >
+      Sav
+      e
+       Changes
+    </button>
+  </fieldset>
+</form>
+`;

@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SingleItem /> errors with a not found item 1`] = `
+<p
+  data-test="graphql-error"
+>
+  <strong>
+    Shoot!
+  </strong>
+  Items not found
+</p>
+`;
+
+exports[`<SingleItem /> renders with proper data 1`] = `
+<h2
+  className="title"
+>
+  dogs are best
+</h2>
+`;
+
+exports[`<SingleItem /> renders with proper data 2`] = `
+<img
+  alt="dogs are best"
+  src="dog.jpg"
+/>
+`;
+
+exports[`<SingleItem /> renders with proper data 3`] = `
+Array [
+  <p>
+    dogs
+  </p>,
+  <p
+    className="price"
+  >
+    $50
+  </p>,
+]
+`;

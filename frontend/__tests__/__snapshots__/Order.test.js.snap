@@ -1,0 +1,122 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Order/> renders and matches snapshot 1`] = `
+<div
+  className="OrderStyles-k2yeg-0 bwaDUN"
+  data-test="order"
+>
+  <SideEffect(Head)>
+    <Head />
+  </SideEffect(Head)>
+  <p>
+    <span>
+      Order ID: 
+    </span>
+    <span>
+      ord123
+    </span>
+  </p>
+  <p>
+    <span>
+      Charge 
+    </span>
+    <span>
+      ch_123
+    </span>
+  </p>
+  <p>
+    <span>
+      Date 
+    </span>
+    <span>
+      March 31, 2018 9:00 PM
+    </span>
+  </p>
+  <p>
+    <span
+      data-test="order-total"
+    >
+      Order 
+    </span>
+    <span>
+      $400
+    </span>
+  </p>
+  <p>
+    <span>
+      Item Count 
+    </span>
+    <span
+      data-test="item-count"
+    >
+      2
+    </span>
+  </p>
+  <div
+    className="items"
+  >
+    <div
+      className="order-item"
+      key="b4505a74-1f67-4ee1-9558-e56760116bcd"
+    >
+      <img
+        alt="nihil quam nulla est unde sit ex"
+        src="dolorem.jpg"
+      />
+      <div
+        className="item-details"
+      >
+        <h2>
+          nihil quam nulla est unde sit ex
+        </h2>
+        <p>
+          Qty: 
+          1
+        </p>
+        <p>
+          Each: 
+          $42.34
+        </p>
+        <p>
+          Subtotal: 
+          $42.34
+        </p>
+        <p>
+          expedita est doloremque explicabo eaque necessitatibus sit
+        </p>
+      </div>
+    </div>
+    <div
+      className="order-item"
+      key="4cef4042-dadc-4ad4-a066-08d01ced82d4"
+    >
+      <img
+        alt="voluptas culpa et vero repellat eveniet assumenda"
+        src="et.jpg"
+      />
+      <div
+        className="item-details"
+      >
+        <h2>
+          voluptas culpa et vero repellat eveniet assumenda
+        </h2>
+        <p>
+          Qty: 
+          1
+        </p>
+        <p>
+          Each: 
+          $42.34
+        </p>
+        <p>
+          Subtotal: 
+          $42.34
+        </p>
+        <p>
+          quis quae iusto sapiente nostrum aut corrupti
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
