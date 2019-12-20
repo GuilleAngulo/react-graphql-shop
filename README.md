@@ -24,4 +24,4 @@ Prisma provides a set of CRUD APIs for MySQL, Postgres or MongoDB Databases. It 
 You can test it [here](https://tropi-react-prod.herokuapp.com/)
 
 ## Demo
-[![Watch the demo]()](https://youtu.be/MSxbtrsVcfQ)
+[![Watch the demo](https://github.com/GuilleAngulo/react-graphql-shop/blob/master/frontend/snapshots/frame.png)](https://youtu.be/MSxbtrsVcfQ)
