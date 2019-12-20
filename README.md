@@ -1,7 +1,8 @@
 # React, GraphQL, Next and Apollo example Shop
 
 ## Structure
-Prisma Server (Postgres) - Yoga Server (Resolvers: Queries and Mutations) - ReactJS (Next.js)
+
+<img src="https://github.com/GuilleAngulo/react-graphql-shop/blob/master/frontend/snapshots/app-structure.png" width="600">
 
 ## Live Demo
 [Here](https://tropi-react-prod.herokuapp.com/)
