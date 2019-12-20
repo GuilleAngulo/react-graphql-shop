@@ -2,7 +2,7 @@
 
 ## Structure
 
-<img src="https://github.com/GuilleAngulo/react-graphql-shop/blob/master/frontend/snapshots/app-structure.png" width="600">
+<img src="https://github.com/GuilleAngulo/react-graphql-shop/blob/master/frontend/snapshots/stack.png" width="800">
 
 ## Live Demo
 [Here](https://tropi-react-prod.herokuapp.com/)
