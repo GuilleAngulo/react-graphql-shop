@@ -1,7 +1,7 @@
 # 👘 Tropi
 A React, GraphQL, Next and Apollo example Shop. The application implements a basic shop, where a user can create an account and make an order by adding items to his cart. Also is possible to manage items (creating, deleting and updating them) depending on users permissions. 
 
-## Structure
+## 🧱 Structure
 ### Interface Layer
 For building the interface in React.js, it is used the framework [Next.js](https://nextjs.org/) for things as rendering and routing. In styling (CSS) it is used [Styled Components](https://www.styled-components.com/). As the application uses Apollo Client, also it uses [React-Apollo](https://github.com/apollographql/react-apollo) for interfacing with it. For image hosting the service used is [Cloudinary](https://cloudinary.com/). Also it used a cool progress bar, [NProgress](https://ricostacruz.com/nprogress/). Finally, in the testing area it used [Jest](https://jestjs.io/) with [Enzyme](https://airbnb.io/enzyme/).
 
@@ -14,14 +14,14 @@ The GraphQL Yoga server is used on top of Prisma, and acts as a "proxy" to query
 ### GraphQL Database Interface
 Prisma inject data and provides a set of CRUD APIs for MySQL, Postgres or MongoDB Databases. It is possible to define the schema and then deploy it for makes changes at database structure. Things as relationships are easy to implement. 
 
-## Tech Stack
+## 💻 Tech Stack
 <img src="https://github.com/GuilleAngulo/react-graphql-shop/blob/master/frontend/snapshots/techs-stack.png" width="1000">
 
-## Screenshots
+## 📸 Screenshots
 <img src="https://github.com/GuilleAngulo/react-graphql-shop/blob/master/frontend/snapshots/home-shot.png" width="420"><img src="https://github.com/GuilleAngulo/react-graphql-shop/blob/master/frontend/snapshots/cart-shot.png" width="420">
 
-## Live Demo
+## 🛒 Live Demo
 You can test it [here](http://tropi.guilleangulo.me)
 
-## Demo
+## 📹 Video
 [![Watch the demo](https://github.com/GuilleAngulo/react-graphql-shop/blob/master/frontend/snapshots/frame.png)](https://youtu.be/MSxbtrsVcfQ)
