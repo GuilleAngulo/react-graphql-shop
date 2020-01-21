@@ -1,5 +1,5 @@
-# TROPI - A React, GraphQL, Next and Apollo example Shop
-The application implements a basic shop, where a user can create an account and make an order by adding items to his cart. Also is possible to manage items (creating, deleting and updating them) depending on users permissions. 
+# 👘 Tropi
+A React, GraphQL, Next and Apollo example Shop. The application implements a basic shop, where a user can create an account and make an order by adding items to his cart. Also is possible to manage items (creating, deleting and updating them) depending on users permissions. 
 
 ## Structure
 ### Interface Layer
