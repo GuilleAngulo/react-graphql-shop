@@ -21,7 +21,7 @@ Prisma inject data and provides a set of CRUD APIs for MySQL, Postgres or MongoD
 <img src="https://github.com/GuilleAngulo/react-graphql-shop/blob/master/frontend/snapshots/home-shot.png" width="420"><img src="https://github.com/GuilleAngulo/react-graphql-shop/blob/master/frontend/snapshots/cart-shot.png" width="420">
 
 ## Live Demo
-You can test it [here](https://tropi-react-prod.herokuapp.com/)
+You can test it [here](http://tropi.guilleangulo.me)
 
 ## Demo
 [![Watch the demo](https://github.com/GuilleAngulo/react-graphql-shop/blob/master/frontend/snapshots/frame.png)](https://youtu.be/MSxbtrsVcfQ)
