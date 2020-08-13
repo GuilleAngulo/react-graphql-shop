@@ -9,7 +9,7 @@ For building the interface in React.js, it is used the framework [Next.js](https
 The app makes use of [Apollo Client](https://www.apollographql.com/docs/react/) for data management purpose. It provides tools as performing both GraphQL queries and mutations, catching the data and managing local state. One nice tool is the hability to perform an optimistic response update, anticipating the server response in order to make the app faster (used at cart when adding or removing items). Finally gives the tools to manage error and loading states to give a better UI experience.
 
 ### Express GraphQL Server
-The GraphQL Yoga server is used on top of Prisma, and acts as a "proxy" to query the GraphQL Database Interface for security reasons, only allowing our custom queries and mutations. Here is implemented the queries and mutations resolvers logic, the permissions checking, JWT authentication management, credit card charging management and emails (for password reset).
+The GraphQL Yoga server is used on top of Prisma, and acts as a "proxy" to query the GraphQL Database Interface for security reasons, only allowing our custom queries and mutations. Here are implemented the queries and mutations resolvers logic, the permissions checking, JWT authentication management, credit card charging management and emails (for password reset).
 
 ### GraphQL Database Interface
 Prisma inject data and provides a set of CRUD APIs for MySQL, Postgres or MongoDB Databases. It is possible to define the schema and then deploy it for makes changes at database structure. Things as relationships are easy to implement. 
